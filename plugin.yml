@@ -1,0 +1,7 @@
+name: threadity
+description: Utilities for concurrent programming of PocketMine-MP plugins
+author: arfush
+website: https://github.com/arfush/threadity
+main: threadity\bootstrap\Loader
+version: 1.0.0
+api: 4.0.0
